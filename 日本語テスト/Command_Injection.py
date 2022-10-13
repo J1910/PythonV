@@ -1,4 +1,4 @@
-#//文字コードはShift-JISです。
+# 譁�蟄励さ繝ｼ繝蔚TF-8縺ｧ縺吶�
 
 import os
 from flask import request
